@@ -10,10 +10,13 @@ I spend my time building servers in my homelab and architecting full-stack appli
 
 ### 🖥️ What I Build 
 
-* **The SomLab:** My enterprise-grade virtual testing ground.
-    * *Hardware:* ThinkPad E15
-    * *Infrastructure:* VMware Workstation Pro hosting Windows Server 2022 (Domain Controller) and customized Ubuntu Linux environments.
-* **Software Architecture:** Designing project structures like a complete School Management System (SMS) and building apps using Cursor IDE, Next.js, and React Native.
+* The SomLab: My enterprise-grade virtual testing ground.
+    * Hardware: Custom Homelab Server
+    * Processor: AMD Ryzen 9 7900X
+    * Memory: 64GB DDR5 RAM
+    * Storage: 2TB NVMe M.2 SSD
+    * Infrastructure: VMware Workstation Pro hosting Windows Server 2022 (Domain Controller) and customized Ubuntu Linux environments.
+* Software Architecture: Designing project structures like a complete School Management System (SMS) and building apps using Cursor IDE, Next.js, and React Native.
 
 ---
 
