@@ -31,3 +31,5 @@ I spend my time building servers in my homelab and architecting full-stack appli
 * Google IT Support professional
 * IBM IT Support professional
 * Microsoft IT Support Professional
+* Cisco CCNA (200-301) Certificate
+* Google AI Professional
